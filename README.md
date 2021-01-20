@@ -1,6 +1,4 @@
-News App 🗞
-GitHub license
+# News Website Template
+A News website using CSS Grid
 
-
-* Structure of our website is made up of html.
-* Styling is done by CSS.
+[Check it Out!](https://mukesh12-ai.github.io/newsgrid2)
